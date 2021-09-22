@@ -1,4 +1,8 @@
+import Link from 'next/link'
 function Footer() {
+    const handleClick = () => {
+        window.open("https://github.com/amotiv");
+    }
     return (
         <footer>
             <div className="flex">
@@ -9,9 +13,9 @@ function Footer() {
                         <p className="flex text-xl text-blue-500 font-semibold my-2">-></p>
                         <p className="flex text-xl text-blue-500 font-semibold my-2">-></p> 
                     </div>
-                    <div className="flex flex-col my-3 -mx-72 cursor-pointer">
-                        <a href="#" className="flex text-lg text-black my-2">Home</a>
-                        <a href="#" className="flex text-lg text-black my-2">GitHub</a>
+                    <div className="flex flex-col my-4 -mx-72 cursor-pointer text-black text-xl leading-10">
+                        <Link href="/">Home </Link>
+                        <button onClick={handleClick}>Github</button>
                         </div>
                         <div className="flex mx-48">
 
