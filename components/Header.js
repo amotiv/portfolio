@@ -6,7 +6,7 @@ function Header() {
     }
     return (
         <header>        
-            <div className="flex flex-row justify-between item-center text-blue-400">
+            <div className="flex flex-row sm:flex-col justify-between item-center text-blue-400">
                 <div className="flex flex-grow justify-evenly max-w-2xl m-3">
                     <Link href="/">Home </Link>
                 </div>
