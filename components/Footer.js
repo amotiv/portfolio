@@ -8,7 +8,7 @@ function Footer() {
             <div className="flex">
                 <div className="h-auto my-auto sm:h-auto  w-screen bg-gray-400">
                     <div className="flex flex-grow bg-cover bg-face-img rounded-full my-12 mx-4 lg:mx-96 w-24 sm:w-24 h-1/2">
-                    <div className="flex flex-col h-1/2 w-1/4 mx-52 sm:mx-72 -my-4 text-black text-sm sm:text-lg leading-10">
+                    <div className="flex flex-col h-1/2 w-1/4 mx-40 sm:mx-72 -my-4 text-black text-sm sm:text-lg leading-10">
                         <p className="flex text-lg sm:text-xl text-black font-semibold">Navigation</p>
                         <Link href="/">Home </Link>
                         <button onClick={handleClick}>Github</button>
