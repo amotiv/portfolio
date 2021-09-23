@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="divide-y divide-blue-400 md:divide-y-8">
       <Head>
-        <title>Adam Portfolio</title>
+        <title>Adam Thomas Portfolio</title>
         <link rel="icon" href="/public/favicon.ico" />
 
       </Head>
