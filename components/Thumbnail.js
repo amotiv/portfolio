@@ -4,7 +4,7 @@ function Thumbnail() {
             <div className="flex flex-grow flex-wrap w-screen">
                 <div className="flex flex-col object-center w-5/6 my-12 mx-12 bg-gray-400 h-4/5 sm:mx-auto md:w-1/2 ">
                     <div className="flex w-full h-1/5 lg:h-48 bg-blue-500">       
-                        <div className="flex bg-cover bg-face-img rounded-full mx-3 w-1/6 sm:w-1/6 h-full"></div>
+                        <div className="flex bg-cover bg-face-img rounded-full mx-3 w-2/6 sm:w-1/6 h-full"></div>
                         <div className="flex flex-row my-auto font-bold">
                         <p className="text-gray-100 text-3xl md:text-5xl text mx-6">Adam Thomas</p>
                     </div>
