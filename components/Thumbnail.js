@@ -15,8 +15,8 @@ function Thumbnail() {
                         <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* HTML(front end)  </li>
                         <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* CSS(front end)  </li>
                         <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* Javascript(front end/back end)  </li>
-                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* Python(Back end)  </li>
-                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* C++(Back end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* Python(back end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* C++(back end)  </li>
                         <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl mx-auto px-10 leading-1 sm:leading-3 lg:leading-10">I also have some experience with databases such as SQL and MySQL. I am currently working on websites and applications using ReactJS with NextJS,TailwindCSS,Redux and FireBase frameworks.</li>
                          <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl mx-auto px-10 leading-1 sm:leading-3 lg:leading-10">In my free time, I play sports and hang out with friends.</li>
                     
