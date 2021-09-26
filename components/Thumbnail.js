@@ -10,15 +10,21 @@ function Thumbnail() {
                     </div>
                     </div>
                     <div className="flex flex-col h-full w-full">
-                        <p className="text-gray-800 text-xl sm:text-2xl md:text-2xl lg:text-3xl mx-auto my-2 sm:my-10">About Me</p>
-                        <p className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl mx-auto px-10 leading-2 sm:leading-5 lg:leading-10">Hello, my name is Adam Thomas and I am a junior at Mississippi state with the expected graduation date May 2023. I am a full stack developer with the knowledge of the many languages including HTML,CSS,Javascript for the front end and Python, and C++ for the backend. 
-                        I also have some experience with databases such as SQL and MySQL. I am currently working on websites and applications using ReactJS with NextJS,TailwindCSS,Redux and FireBase frameworks. I also have some hobbies including sports and going to hangout with friends in my freetime.
+                        <li className="text-gray-800 text-xl sm:text-2xl md:text-2xl lg:text-3xl mx-auto my-2 sm:my-10 list-none">About Me</li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl mx-auto px-10 leading-1 sm:leading-3 lg:leading-10">Hello, my name is Adam Thomas, a Junior at Mississippi State University majoring in Software Engineering with an expected graduation date of May 2023. I am a full stack developer with the knowledge of many languages: </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* HTML(front end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* CSS(front end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* Javascript(front end/back end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* Python(Back end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl px-10 leading-1 sm:leading-3 lg:leading-10">* C++(Back end)  </li>
+                        <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl mx-auto px-10 leading-1 sm:leading-3 lg:leading-10">I also have some experience with databases such as SQL and MySQL. I am currently working on websites and applications using ReactJS with NextJS,TailwindCSS,Redux and FireBase frameworks.</li>
+                         <li className="flex flex-wrap text-gray-800 text- text-xs sm:text-sm md:text-sm lg:text-xl mx-auto px-10 leading-1 sm:leading-3 lg:leading-10">In my free time, I play sports and hang out with friends.</li>
                     
-                        </p>
-                        <p className="flex flex-grow flex-wrap text-gray-800 text-xs sm:text-sm md:text-md lg:text-xl mx-auto p-1 leading-2 lg:leading-2">
+                        
+                        <p className="flex flex-grow flex-wrap text-gray-800 text-xs sm:text-sm md:text-md lg:text-xl mx-auto md:p-1 leading-1 lg:leading-2">
                         Phone: 256-763-6154
                         </p>
-                        <p className="flex flex-grow flex-wrap text-gray-800 text-xs sm:text-sm md:text-md lg:text-xl mx-auto p-1 leading-2">
+                        <p className="flex flex-grow flex-wrap text-gray-800 text-xs sm:text-sm md:text-md lg:text-xl mx-auto md:p-1 leading-1">
                         Email:dearadamthomas@gmail.com
                         </p>
                     </div>
